@@ -1,0 +1,7 @@
+[package]
+name = "trabalho_megastore"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+#Não precisa de nada até onde pesquisei
